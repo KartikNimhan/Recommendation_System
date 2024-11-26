@@ -1,0 +1,13 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore MLflow files and directories
+mlruns/
+
+# Ignore temporary or large files
+*.csv
+*.dat
+*.log
